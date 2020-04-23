@@ -1,0 +1,9 @@
+0:0:0:0:0:0:0:1 - - [16/Mar/2020:22:39:45 +0800] "GET /crowdfunding-web HTTP/1.1" 302 - http-bio-8080-exec-2 0
+0:0:0:0:0:0:0:1 - - [16/Mar/2020:22:39:45 +0800] "GET /crowdfunding-web/ HTTP/1.1" 200 40092 http-bio-8080-exec-3 326
+0:0:0:0:0:0:0:1 - - [16/Mar/2020:22:39:46 +0800] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-4 0
+0:0:0:0:0:0:0:1 - - [16/Mar/2020:22:40:03 +0800] "GET /crowdfunding-web/login HTTP/1.1" 200 3141 http-bio-8080-exec-6 21
+0:0:0:0:0:0:0:1 - - [16/Mar/2020:22:40:07 +0800] "POST /crowdfunding-web/doLogin HTTP/1.1" 302 - http-bio-8080-exec-8 1986
+0:0:0:0:0:0:0:1 - - [16/Mar/2020:22:40:07 +0800] "GET /crowdfunding-web/main HTTP/1.1" 200 10896 http-bio-8080-exec-9 53
+0:0:0:0:0:0:0:1 - - [16/Mar/2020:22:40:23 +0800] "GET /crowdfunding-web/admin/index HTTP/1.1" 200 17845 http-bio-8080-exec-1 1403
+0:0:0:0:0:0:0:1 - - [16/Mar/2020:22:40:29 +0800] "GET /crowdfunding-web/main.html HTTP/1.1" 200 10896 http-bio-8080-exec-4 17
+0:0:0:0:0:0:0:1 - - [16/Mar/2020:22:41:04 +0800] "GET /crowdfunding-web/auth_cert/index.html HTTP/1.1" 404 1025 http-bio-8080-exec-7 8

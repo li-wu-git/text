@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/crowdfundingapi/crowdfundingapi.iml" filepath="$PROJECT_DIR$/crowdfundingapi/crowdfundingapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/crowdfundingbean/crowdfundingbean.iml" filepath="$PROJECT_DIR$/crowdfundingbean/crowdfundingbean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/crowdfundingcommon/crowdfundingcommon.iml" filepath="$PROJECT_DIR$/crowdfundingcommon/crowdfundingcommon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/crowdfundingimpl/crowdfundingimpl.iml" filepath="$PROJECT_DIR$/crowdfundingimpl/crowdfundingimpl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/crowdfundingweb/crowdfundingweb.iml" filepath="$PROJECT_DIR$/crowdfundingweb/crowdfundingweb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/crowdingfunding.iml" filepath="$PROJECT_DIR$/crowdingfunding.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,8 @@
+com\lw\service\impl\TAadminServiceImpl.class
+com\lw\controller\TAdminController.class
+com\lw\service\impl\TMenuServiceImpl.class
+com\lw\controller\TMenuContorller.class
+com\lw\service\impl\TPermissionServiceImpl.class
+com\lw\controller\TPermissionController.class
+com\lw\service\impl\TRoleServiceImpl.class
+com\lw\controller\TRoleController.class
